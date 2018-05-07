@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Localization</string>
+    <string name="hello_world">HelloMundo %1$s, Tienes %2$d pokes de %3$s</string>
+    <string name="good_morning">BuenosDías</string>
+
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%dcanción fundar.</item>
+        <item quantity="other">%dcanciónes fundar.</item>
+    </plurals>
+
+    <string name="app_homeurl">
+        Sisita nosotros en <xliff:g id="application_homepage">https://fiqri.com</xliff:g>
+    </string>
+
+</resources>
